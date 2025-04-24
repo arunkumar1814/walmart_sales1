@@ -1,0 +1,4 @@
+pandas
+MySQL  tool kit:
+pymysql ## this will work as adapter
+sqlalchemy  create engine 
